@@ -9,7 +9,8 @@
       "/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
       "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
       "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP_C"
+      "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP_C",
+      "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP
     ],
     "weeksarrays": [
       {
@@ -85,7 +86,7 @@
           { "dino": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C", "chancetodrop": 0.8 },
           { "dino": "/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP.Diplocaulus_Character_BP_C", "chancetodrop": 0.8 },
           { "dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C", "chancetodrop": 0.6 },
-          { "dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C", "chancetodrop": 0.4 },
+          { "dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C", "chancetodrop": 0.5 },
           { "dino": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C", "chancetodrop": 0.7 },
           { "dino": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP_C", "chancetodrop": 0.7 },
           { "dino": "/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP_C", "chancetodrop": 0.7 },
@@ -114,7 +115,7 @@
           { "dino": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA_C.Ceratosaurus_Character_BP_ASA", "chancetodrop": 0.6 },
           { "dino": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C", "chancetodrop": 0.3 }
         ],
-        "dipstogive": 7
+        "dipstogive": 6
       },
       {
         "weekforoptions": [
@@ -137,7 +138,7 @@
           { "dino": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed_BP_C", "chancetodrop": 0.1 }
           
         ],
-        "dipstogive": 7
+        "dipstogive": 6
             }
         ]
     }
